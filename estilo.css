@@ -1,4 +1,10 @@
+*{
+       margin:0;
+       padding:0;
+}
+
+
 .pricipal{
-    background-image: url("./img/back");
+    background-image: url("./img/backgroun.png");
 
 }
