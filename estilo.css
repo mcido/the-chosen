@@ -4,7 +4,23 @@
 }
 
 
-.pricipal{
+.principal{
     background-image: url("./img/backgroun.png");
-
+    background-repeat: no-repeat;
+    background-size: contain;
 }
+    container{
+        height: 100vh;
+
+
+
+    }
+
+
+
+
+
+
+
+
+
