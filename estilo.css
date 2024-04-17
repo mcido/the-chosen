@@ -1,4 +1,16 @@
+:root{
+      --cor-texto-principal:#ffffff;
+      --cor-texto-secundario:#c0c0c0;
+      --cor-botao-principal:#167bf7;
+      --cor-botao-secundario:#00030c;
+
+}
+
+
+
+
 *{
+
        margin:0;
        padding:0;
 }
