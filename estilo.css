@@ -36,7 +36,14 @@ body{
        border-radius: 5px;
        text-decoration: none;
     }
+     .botao--secundario{
+          background-color: transparent;
+          border: 2px solid var(--cor-botao-secundario);
 
+
+
+
+     }
 
 
 
