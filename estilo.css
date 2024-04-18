@@ -1,7 +1,7 @@
 :root{
       --cor-texto-principal:#ffffff;
       --cor-texto-secundario:#c0c0c0;
-      --cor-botao-principal:#d83434;
+      --cor-botao-principal:#000000;
       --cor-botao-secundario:#00030c;
 
 }
@@ -32,7 +32,7 @@ body{
     .container--botao{
        background-color: var(--cor-botao-principal);
        color:var(--cor-botao-secundario)
-
+       padding: 1em
 
     }
 
