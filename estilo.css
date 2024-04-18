@@ -30,10 +30,10 @@ body{
      
     }
     .container--botao{
-       background-color: var(--cor-botao-principal);
-       color:var(--cor-botao-secundario)
+       background-color: var(--cor-botao-secundario);
+       color:var(--cor-botao-princilpa)
        padding: 1em
-
+       border-radius: 5px;
     }
 
 
