@@ -1,7 +1,7 @@
 :root{
       --cor-texto-principal:#ffffff;
       --cor-texto-secundario:#c0c0c0;
-      --cor-botao-principal:#f3f3f3;
+      --cor-botao-principal:#d83434;
       --cor-botao-secundario:#00030c;
 
 }
@@ -27,12 +27,14 @@ body{
 }
     .container{
         height: 100vh;
-
-
-
-        
+     
     }
+    .container--botao{
+       background-color: var(--cor-botao-principal);
 
+
+
+    }
 
 
 
