@@ -39,6 +39,7 @@ body{
        border-radius: 5px;
        text-decoration: none;
        display: block;
+       margin-bottom: 2em;
     }
      .botao--secundario{
           background-color: transparent;
