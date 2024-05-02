@@ -24,6 +24,8 @@ body{
     background-image: url("./img/the-chosen-nos-cinemas.jpg");
     background-repeat: no-repeat;
     background-size: contain;
+    text-align: center;
+    align-items: center;
 }
     .container{
         height: 100vh;
